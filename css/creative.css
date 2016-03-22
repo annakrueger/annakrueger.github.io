@@ -476,10 +476,10 @@ body {
 }
 
 .header-top {
-     min-height: 50%;
      position: absolute;
      bottom: 0;
      width: 100%;
+     padding: 30px;
 }
 
 .header-bottom {
