@@ -176,7 +176,7 @@ header {
     position: relative;
     width: 100%;
     min-height: auto;
-    text-align: center;
+    text-align: left;
     color: #fff;
     background-image: url(../img/header.jpg);
     background-position: center;
@@ -473,4 +473,15 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+.header-top {
+     min-height: 50%;
+     position: absolute;
+     bottom: 0;
+     width: 100%;
+}
+
+.header-bottom {
+     min-height: 50%;
 }
