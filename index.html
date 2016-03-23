@@ -373,6 +373,22 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
+    <script src="js/jquery.flyingobjects.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('body').flyingobjects({
+       images: ["/img/penguin1.png"],
+         totalobjects: 10,
+         easing: 'swing',
+         speed: 3000,
+         initialize: "load"
+
+            });             
+        });
+
+
+    </script>
+
 
 </body>
 
