@@ -57,7 +57,7 @@ p {
 
 .bg-dark {
     color: #fff;
-    background-color: #222;
+    background-color: #4E0A0A;
 }
 
 .text-faded {
@@ -65,7 +65,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 40px 0;
 }
 
 aside {
