@@ -111,12 +111,12 @@ aside {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #ad0808;
+    color: RGBA(152, 66, 66, 0.81);
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #ad0808!important;
+    color: RGBA(152, 66, 66, 0.81) !important;
     background-color: transparent;
 }
 
