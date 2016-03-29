@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #f05f40;
+    border-color: #333;
     border-width: 3px;
 }
 
@@ -58,6 +58,10 @@ p {
 .bg-dark {
     color: #fff;
     background-color: #4E0A0A;
+}
+
+.bg-dark hr.primary {
+    border-color: white;
 }
 
 .text-faded {
