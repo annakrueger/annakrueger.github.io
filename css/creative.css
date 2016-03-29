@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #ad0808;
+    color: #RGBA(152, 66, 66, 0.81);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -57,7 +57,7 @@ p {
 
 .bg-dark {
     color: #fff;
-    background-color: #4E0A0A;
+    background-color: #8F6060;
 }
 
 .bg-dark hr.primary {
@@ -327,7 +327,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #ad0808;
+    color: RGBA(152, 66, 66, 0.81);
 }
 
 .no-gutter > [class*=col-] {
