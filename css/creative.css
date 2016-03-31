@@ -60,6 +60,11 @@ p {
     background-color: #8F6060;
 }
 
+.bg-dark a {
+    color: white;
+    text-decoration: underline;
+}
+
 .bg-dark hr.primary {
     border-color: white;
 }
