@@ -506,3 +506,7 @@ body {
      opacity: 0.6; 	
      filter: alpha(opacity=60);
 }
+
+#impressum {
+     text-align: center;
+}
